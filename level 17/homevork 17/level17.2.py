@@ -6,10 +6,10 @@ fav_num=int(input("enter your favorite number?:"))
 if MyFav_num == fav_num:
     print("perfect")
 
-if fav_num > MyFav_num:
+elif fav_num > MyFav_num:
     print("it is more")
 
-if fav_num < MyFav_num:
+elif fav_num < MyFav_num:
     print("it is Less")
 
 
