@@ -1,4 +1,4 @@
-count = 0
+count = 10
 
-while count > 10:
-    print("hello world")
+while count > 0:
+    print("hi")
