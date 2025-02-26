@@ -1,24 +1,45 @@
-#header{
+#header1{
     border:solid 10px;
     background-color: red;
     position: fixed;
-    left: 500px;
+    left: 0px;
+    top: 0px;
 }
-#ppp{
-    opacity: 0.5;
+#header2{
     border:solid 10px;
     background-color: red;
     position: fixed;
-    left: 1200px;
-    top: -10px;
+    left: 965px;
+    top: 0px;
 }
-
-
-
-
-
-
-
+#header3{
+    border:solid 10px;
+    background-color: red;
+    position: fixed;
+    left: 360px;
+    top: 0px;
+}
+#div1{
+    position: relative;
+    top: 100px;
+    border:solid 10px;
+}
+#div2{
+    position: relative;
+    top: 130px;
+    border:solid 10px;
+}
+#div3{
+    position: absolute;
+    top: 400px;
+    border:solid 10px;
+}
+#ruru{
+    position: sticky;
+}
+#yaya{
+    position: fixed;  bottom: 0;
+}
 
 
 
