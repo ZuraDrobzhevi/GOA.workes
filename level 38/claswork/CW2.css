@@ -1,0 +1,19 @@
+
+
+
+
+
+div{
+height: 200;
+width: 150;
+background-color: aqua;
+border: 1px black solid ;
+margin: 30px;
+
+font-size: 2em;
+color:white;
+font-family: cursive;
+text-align: center;
+
+display: inline;
+}

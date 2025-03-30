@@ -1,0 +1,33 @@
+.N {
+  -webkit-border-radius: 20px; /* For older Chrome, Safari */
+  border-radius: 20px;        /* Standard version */
+  background-color: lightblue;
+  width: 200px;
+  height: 200px;
+  }
+
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  h1 {
+    font-size: 50px;
+    color: white;
+    -webkit-text-stroke: 2px black;
+  }
+
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 5px;
+  }
+

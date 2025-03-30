@@ -1,0 +1,14 @@
+div{
+    height: 150;
+    width: 200;
+    background-color: aqua;
+    border: 1px solid black ;
+    margin: 30px;
+
+    font-size: 2em;
+    color:white;
+    font-family: cursive;
+    text-align: center;
+
+    display: block;
+}
