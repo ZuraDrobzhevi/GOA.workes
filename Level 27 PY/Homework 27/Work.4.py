@@ -8,4 +8,4 @@ def word(word,word0):
     word0.lower()
     print(word + word0)
 
-word("zura","ZURA")
+word("zura ","ZURA")
