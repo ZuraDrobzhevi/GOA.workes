@@ -1,0 +1,11 @@
+.zd{
+    height: 500px;
+    width: 500px;
+}
+@media (max-width: 600px) {
+    .zd{
+
+        width: 90%px;
+        background-color: green;
+}
+}

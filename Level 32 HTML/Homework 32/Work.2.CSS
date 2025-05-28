@@ -1,0 +1,10 @@
+div{
+    font-size: 50px;
+}
+
+
+p{
+    font-size: 50%;
+    text-decoration: overline underline;
+    text-decoration-style: wavy;
+}
