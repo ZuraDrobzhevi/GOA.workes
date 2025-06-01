@@ -1,0 +1,121 @@
+#one{
+    position: absolute;
+    top: 10px;
+    left: 400px;
+
+    text-decoration-style: dotted;
+    text-decoration-line: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: green;
+}
+
+
+#two{
+    position: absolute;
+    top: 60px;
+    left: 160px;
+
+    text-decoration-style: solid;
+    text-decoration-line: line-through;
+    text-decoration-thickness: 1px;
+    text-decoration-color: black;
+}
+
+
+#three {
+    position: absolute;
+    left: 10px;
+    bottom: 425px;
+
+    text-decoration-style: double;
+    text-decoration-line: overline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: red;
+}
+
+
+#four {
+    position: absolute;
+    top: 150px;
+    left: 220px;
+
+    text-decoration-style: solid;
+    text-decoration-line: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: black;
+}
+
+
+#five {
+    position: absolute;
+    top: 200px;
+    left: 300px;
+
+    text-decoration-style: dotted;
+    text-decoration-line: line-through;
+    text-decoration-thickness: 1px;
+    text-decoration-color: green;
+}
+
+
+#six {
+    position: absolute;
+    top: 260px;
+    left: 10px;
+    
+    text-decoration-style: solid;
+    text-decoration-line: line-through;
+    text-decoration-thickness: 1px;
+    text-decoration-color: black;
+}
+
+
+#seven {
+    position: absolute;
+    top: 310px;
+    left: 30px;
+
+    text-decoration-style: solid;
+    text-decoration-line: overline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: black;
+}
+
+
+#eight {
+    position: absolute;
+    top: 370px;
+    left: 270px;
+    color: green;
+
+    text-decoration-style: solid;
+    text-decoration-line: overline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: green;
+}
+
+
+#nine {
+    position: absolute;
+    top: 420px;
+    left: 160px;
+    color: gray;
+
+    text-decoration-style: solid;
+    text-decoration-line: overline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: gray;
+}
+
+
+#ten {
+    position: absolute;
+    bottom: 20px;
+    right: 50px;
+    color: green;
+
+    text-decoration-style: dotted;
+    text-decoration-line: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: green;
+}
