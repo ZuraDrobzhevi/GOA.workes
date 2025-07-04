@@ -1,0 +1,29 @@
+#zero:hover{
+font-size: 30px;
+color: red;
+transition: 2s;
+}
+#one:hover{
+    font-size: 40px;
+    color: red;
+    transition: 2s;
+}
+#two:hover{
+    font-size: 50px;
+    color: blue;
+    transition: 2s;
+}
+#three:hover{
+    font-size: 60px;
+    color: blue;
+    transition: 2s;
+}
+#linki{
+color: black;
+}
+#linki:visited{
+color: green;
+}
+#linki:link{
+    color: rgb(39, 63, 39);
+    }

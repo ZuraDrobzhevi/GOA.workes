@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Supermercado+One&display=swap');
+div{
+    width: 250px;
+  height: 150px;
+  background-color: white;
+  color: black;
+  font-family: "Supermercado One", sans-serif;
+}
+
+a:hover{ 
+    color: white;
+    background-color: #f0f8ff;
+    text-decoration: none;
+    font-size: 16px;}
+
+h3 {
+    font-weight: bold;
+    margin: 0 0 10px 0;
+}

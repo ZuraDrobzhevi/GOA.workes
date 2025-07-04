@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lobster&display=swap');
+
+
+h1:hover{
+    font-family: "Lobster", sans-serif;
+}
+p:hover{
+    font-family: "Lobster", sans-serif;
+}
+button:hover{
+    font-family: "Lobster", sans-serif;
+}
+a:hover{
+    font-family: "Lobster", sans-serif;
+}

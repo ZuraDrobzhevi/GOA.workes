@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+a{
+    font-family: "Caprasimo", serif;
+    font-weight: bold;
+}
+
+
+a:link{ /*რავი ვერ გაუგე რა არის მაგრამ რაღაც უაზროა *//* a:link  არაფრად არ ვარგა*/
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    font-size: 16px;}
+
+a:visited{ 
+    color: sandybrown;
+    background-color: lightgray;
+    text-decoration: none;
+    font-size: 16px;}
+
+ a:hover{ /*როდესაც მაუსი მივა ლინკი ან ფოტო შეიცვლება შეიცვლება ზომაში ან ფერში */
+    color: white;
+    background-color: orange;
+    text-decoration: none;
+    font-size: 16px;}
+
+a:active{ 
+    color: white;
+    background-color: red;
+    text-decoration: none;
+    font-size: 16px;
+}
+

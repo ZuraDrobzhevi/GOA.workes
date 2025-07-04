@@ -1,0 +1,18 @@
+img {
+    width: 200px;
+    transition: 0.3s;
+}
+
+
+#zero:hover {
+    width: 50%;
+}
+
+
+#one:hover {
+    width: 75%;
+}
+
+#two:hover {
+    width: 100%;
+}

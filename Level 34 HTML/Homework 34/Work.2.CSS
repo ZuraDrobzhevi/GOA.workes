@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+/* პირველი */
+#one{
+color: blue;
+font-family: "Lobster", sans-serif;
+}
+#one:hover{
+    color: maroon;
+    font-weight: normal;
+}
+
+/*მეორე */
+ #two{ 
+    color: blue;
+    font-family: "Lobster", sans-serif;
+    }
+#two:hover{
+    color: maroon;
+    font-weight: bold;
+
+}
+
+/*მესამე*/
+#three{ 
+    color: blue;
+    font-family: "Lobster", sans-serif;
+    }
+#three:hover{
+    color: maroon;
+    font-weight: normal;
+}
+
+
+
+
+
+
+
+

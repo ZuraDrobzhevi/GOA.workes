@@ -1,0 +1,8 @@
+#gama:hover{
+    font-size: 40px;
+    background-color: red;
+}
+#gama:active{
+    font-size: 40px;
+    background-color: blue;
+}
