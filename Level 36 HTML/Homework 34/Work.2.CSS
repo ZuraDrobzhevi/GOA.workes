@@ -1,0 +1,42 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th{
+    color: black;
+    background-color: aquamarine;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+.A{
+    color: white;
+    background-color: rgb(141, 255, 0);
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+.B{
+    color: white;
+    background-color: rgb(119, 204, 0); ;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+.C{
+    color: white;
+    background-color: rgb(153, 153, 0);
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+.D{
+    color: white;
+    background-color: rgb(153, 51, 0);
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+.E{
+    color: white;
+    background-color: rgb(153, 0, 0);
+    border-collapse: collapse;
+    border: 1px solid black;
+}

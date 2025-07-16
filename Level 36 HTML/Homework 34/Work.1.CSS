@@ -1,0 +1,26 @@
+table,tr{
+    border: solid 1px yellow;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td{
+    border: solid 1px yellow;
+    border-collapse: collapse;
+    text-align: center;
+}
+.A{
+    background-color: red;
+    color: white;
+}
+.B{
+    color: black;
+    background-color: chartreuse;
+}
+th{
+    background-color: yellow;
+    color: black;
+}
+h1{
+    color: rgb(243, 92, 87);
+}

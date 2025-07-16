@@ -1,0 +1,25 @@
+table, tr{
+    border: 1px solid rgb(165, 165, 165);
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th{
+    border: 1px solid rgb(165, 165, 165);
+    border-collapse: collapse;
+    text-align: center;
+    background-color: rgb(31, 31, 31);
+    color: white;
+}
+
+td{
+    border: 1px solid rgb(165, 165, 165);
+    border-collapse: collapse;
+    text-align: center;
+    color: gray;
+    
+}
+tr:nth-child(odd){
+    background-color: lightgrey;
+
+}

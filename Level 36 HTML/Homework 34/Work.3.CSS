@@ -1,0 +1,16 @@
+table, tr, td, th {
+    border: 3px solid gold;
+    border-collapse: collapse;
+text-align: center;
+}
+
+
+.A{
+color: black;
+background-color: yellow;
+border: 1px solid color yellow;
+}
+th{
+    color: black;
+background-color: yellow;
+}
