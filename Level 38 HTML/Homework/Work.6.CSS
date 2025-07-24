@@ -1,0 +1,22 @@
+input{
+    background-color:rgb(229, 229, 229);
+    border-radius: 3px;
+    border: none;
+}
+p{
+color: rgb(50, 50, 50);
+
+}
+.hoi{
+    height: 15px;
+}
+
+#one{
+background-color: rgb(0, 0, 0);
+color: white;
+}
+
+#four{
+    width: 332px;
+  height: 80px;
+}

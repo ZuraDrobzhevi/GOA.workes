@@ -1,0 +1,11 @@
+.one{
+    list-style-type: square;
+    color:darkblue
+    }
+.one li {
+    background-color: aquamarine;
+}
+body {
+    background-color:rgb(57, 130, 255);}
+
+

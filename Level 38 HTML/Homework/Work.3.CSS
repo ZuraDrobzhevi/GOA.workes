@@ -1,0 +1,12 @@
+p {
+    font-size: 18px;
+    color: darkblue;
+    font-family: Arial, sans-serif;
+}
+
+.one {
+    list-style-type: square;
+    font-size: 16px;
+    color: darkgreen;
+    font-family: Verdana, sans-serif;
+}

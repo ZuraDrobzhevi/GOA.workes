@@ -1,0 +1,17 @@
+.two {
+    list-style-type: disc;
+    list-style-position: inside;}
+
+.two li {
+    background-color: white;
+    font-weight: bold;
+    font-size: 18px;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.two li::marker {
+    font-size: 28px;
+    color: black;
+
+}
