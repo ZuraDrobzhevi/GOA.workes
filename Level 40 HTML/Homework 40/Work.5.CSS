@@ -1,0 +1,21 @@
+img {
+    height: 100px;
+    width: 200px;
+    margin: 15px auto;
+    padding: 15px;
+    display: block;
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+p{
+    border: 1px black solid;
+    background-color: black;
+    color: yellow;
+}

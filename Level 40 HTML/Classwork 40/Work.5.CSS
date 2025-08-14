@@ -1,0 +1,44 @@
+
+
+.CO{
+    display: flex;
+    align-items: flex-start; 
+    gap: 15px; 
+}
+
+.A{
+    width: 100px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    gap: 15px;
+    height: 25px;
+}
+.B{
+    width: 100px;
+    background-color: green;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    gap: 15px;
+    height: 50px;
+}
+.C{
+    width: 100px;
+    background-color: purple;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    gap: 15px;
+    height: 75px;
+}
+.D{
+    width: 100px;
+    background-color: pink;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    gap: 15px;
+    height: 100px;
+}
