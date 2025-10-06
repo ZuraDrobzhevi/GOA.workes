@@ -1,0 +1,46 @@
+#ZD {
+    background-color: rgb(27, 27, 27);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+
+div {
+    background-color: rgb(40, 40, 40);
+    width: 400px;
+    padding: 20px; 
+    display: flex;
+    flex-direction: column; 
+    align-items: center;    
+    border-radius: 10px;
+}
+
+
+img {
+    border-radius: 50%; 
+    width: 150px;      
+    height: 150px;
+    object-fit: cover;  
+    margin-bottom: 15px; 
+}
+
+
+#a { color: white; }
+#b { color: lawngreen; }
+#LOL{color: white;}
+
+.A {
+    background-color: rgb(71, 70, 70);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;  
+    margin: 5px ;  
+    padding: 10px;   
+    border-radius: 5px;
+}
+.B{
+color: white;
+}
